@@ -1,0 +1,5 @@
+uname = notesdb_qu7x_user
+pwd=THfdUZLetvtqIcZpM7vLFdLJSQ2YsJmD
+idurl=postgresql://notesdb_qu7x_user:THfdUZLetvtqIcZpM7vLFdLJSQ2YsJmD@dpg-d5ghlv15pdvs73cmane0-a/notesdb_qu7x
+edurl=postgresql://notesdb_qu7x_user:THfdUZLetvtqIcZpM7vLFdLJSQ2YsJmD@dpg-d5ghlv15pdvs73cmane0-a.oregon-postgres.render.com/notesdb_qu7x
+jwt_key=S78v8woF493WJmkD7pOZbaGbHSxJcngVNnFMnnA5pmA

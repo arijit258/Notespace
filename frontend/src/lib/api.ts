@@ -11,8 +11,8 @@ import type {
   ActivityLog
 } from '@/types';
 
-// const API_BASE_URL = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:8000';
-const API_BASE_URL = process.env.NEXT_PUBLIC_API_URL || 'https://notespace-api.onrender.com';
+const API_BASE_URL = process.env.NEXT_PUBLIC_API_URL || 'https://notespace-api-backend.onrender.com';
+
 class ApiClient {
   private token: string | null = null;
 
